@@ -11,9 +11,9 @@ Each lecture has its own folder; each lab lives in its own subfolder with the de
 
 ```
 samsung-innovation-campus-workshops/
-├── lecture-01-intro-to-genai/
+├── 01-intro-to-genai/
 │   └── lab2-personal-branding-website/     # AI-built personal branding site (vibe coding)
-├── lecture-02-prompt-engineering-basics/
+├── 02-prompt-engineering-basics/
 │   ├── lab2-structured-prompts/            # AI Study Coach via structured prompts
 │   └── lab4-general-vs-step-by-step/       # General vs step-by-step prompting (A/B)
 └── ... (more lectures added as the course continues)
